@@ -1,4 +1,4 @@
-The project "Wedding-Planner" is a web-based app for managing wedding events, designed primarily for educational purposes and student activities. It allows users to efficiently organize various aspects of a wedding, including guest lists, event schedules, venue management, and more. The app is intended to showcase the skills of students in web development, with no commercial purpose.
+The project "Wedding-Planner" is a web-based app for managing wedding events, designed primarily for educational purposes and student activities. It allows users to efficiently organize various aspects of a wedding, including guest lists, event schedules, venue management, and more. The app is only for education purpose not for commercial use
 
 The project features a user-friendly interface for both clients and administrators, offering functionalities such as an event calendar for tracking important dates, an admin panel for managing event details, and image management tools for uploading and displaying event-related visuals.
 
