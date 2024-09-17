@@ -25,7 +25,8 @@
         $relationship = clean($_POST['relationship']);
         $gifts = clean($_POST['gifts']);
 
-         if (empty($fullname) || empty($guestname) || empty($address) || empty($city) || empty($state) || empty($zipcode) || empty($priority) || empty($out_of_town) || empty($relationship)) {
+         if (empty($fullname) || empty($guestname) || empty($address) || empty($city) || empty($state) || empty($zipcode) || empty($priority) 
+            || empty($out_of_town) || empty($relationship)) {
             redirect_to("guest_add.php?$links");
             $session->message("
             <div class=\"alert alert-danger alert-dismissible fade show\" role=\"alert\">

@@ -1,7 +1,6 @@
 <?php include 'include/init.php'; ?>
 <?php
 
-
     if (!isset($_SESSION['id'])) { redirect_to("../"); }
     
     $booking_id = $_GET['booking_id'];
