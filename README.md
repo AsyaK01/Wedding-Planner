@@ -1,0 +1,5 @@
+The project "Wedding-Planner" is a web-based app for managing wedding events, designed primarily for educational purposes and student activities. It allows users to efficiently organize various aspects of a wedding, including guest lists, event schedules, venue management, and more. The app is only for education purpose not for commercial use
+
+The project features a user-friendly interface for both clients and administrators, offering functionalities such as an event calendar for tracking important dates, an admin panel for managing event details, and image management tools for uploading and displaying event-related visuals.
+
+Technologically, it is built using PHP for backend logic, HTML for structuring the web pages, CSS for styling, JavaScript for interactive components, and Bootstrap for creating a responsive, mobile-friendly design. A MySQL database is employed to store essential wedding-related data securely. The structure of the app is modular, making it an excellent foundation for learning how to build, maintain, and extend a web application. 
